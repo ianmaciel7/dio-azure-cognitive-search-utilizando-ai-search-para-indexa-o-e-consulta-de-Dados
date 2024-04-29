@@ -1,7 +1,4 @@
 # dio-azure-cognitive-search-utilizando-ai-search-para-indexa-o-e-consulta-de-Dados
-
-# Configurando uma Pesquisa com o Azure Cognitive Search
-
 Este guia fornece um passo a passo para configurar uma pesquisa usando o Azure Cognitive Search. A pesquisa é uma parte fundamental de muitas aplicações, e o Azure Cognitive Search oferece uma maneira poderosa de implementar essa funcionalidade em seus aplicativos.
 
 ## Passo a Passo
